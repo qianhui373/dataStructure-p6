@@ -1,0 +1,5 @@
+C:/Users/project6/ece3514-sp21-project6-qianhui373/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/project6/ece3514-sp21-project6-qianhui373/out/build/x64-Debug/CMakeFiles/test.dir
+C:/Users/project6/ece3514-sp21-project6-qianhui373/out/build/x64-Debug/CMakeFiles/unit_tests.dir
+C:/Users/project6/ece3514-sp21-project6-qianhui373/out/build/x64-Debug/CMakeFiles/myspell.dir
+C:/Users/project6/ece3514-sp21-project6-qianhui373/out/build/x64-Debug/CMakeFiles/edit_cache.dir
